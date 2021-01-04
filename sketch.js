@@ -137,7 +137,7 @@ function draw() {
     
   drawSprites();
 
-  text("use arrow key and space key,kill as many as zombie possible",1900,400)  
+text("use arrow key and space key,kill as many as zombie possible",1900,400);  
   
   
 }
