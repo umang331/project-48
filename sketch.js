@@ -129,9 +129,9 @@ function draw() {
           zomb.pop();
           
         }
-        var text = createElement('h1');
-        text.html("your score is: "+score +" .refresh to play again")
-        text.position(50,-3)
+        var textt = createElement('h1');
+        textt.html("your score is: "+score +" .refresh to play again")
+        textt.position(50,-3)
       }
     
     
